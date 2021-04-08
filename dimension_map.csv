@@ -1,0 +1,32 @@
+Current_dim,Output_dim,Column_sort
+Market,Market,1
+CHANNEL,Channel,2
+CATEGORY,SmallC,3
+SEGMENT,Segment,4
+MANUFACTURER,Manufacturer,5
+BRAND,Brand,6
+TIME PERIOD,Time Period,7
+VALUE,Value Euro,8
+VOLUME,Volume Kg,9
+TDP,TDP,10
+ND,ND,11
+WD,WD,12
+AVG_PRICE,Avg Price Euro/Kg,13
+API,API,14
+VALUE_SHARE,Value Share,15
+VOLUME_SHARE,Volume Share,16
+TDP_SHARE,TDP Share,17
+SISH_Value,SISH Value,18
+SISH_Volume,SISH Volume,19
+VALUE_GROWTH,Value Growth,20
+VOLUME_GROWTH,Volume Growth,21
+VALUE_bps,Value bps,22
+VOLUME_bps,Volume bps,23
+TDP_bps,TDP bps,24
+AVG_PRICE_growth,Avg Price growth,25
+API_change,API bps,26
+ND_bps,ND bps,27
+WD_bps,WD bps,28
+SISH_Value_bps,SISH Value bps,29
+SISH_Volume_bps,SISH Volume bps,30
+Brand Order,Brand Order,31

@@ -1,0 +1,24 @@
+.this-p-header {
+    color: red;
+}
+.dash-spreadsheet-menu {
+    position: absolute;
+    top: -50px;
+    right: 70%;
+}
+.export {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #28a745;
+    color: #fff;
+}
+.nav-link{
+color: #000;
+font-weight: bold;
+
+}
+.display-4{
+font-weight: bold;
+}
